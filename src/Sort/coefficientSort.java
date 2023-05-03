@@ -1,9 +1,8 @@
 package Sort;
-// 거스름돈
 
 import java.util.Scanner;
 
-public class selectSort {
+public class coefficientSort {
 
     public static void main(String[] args) {
 
